@@ -16,9 +16,12 @@ assignees: AGuyWorking, daveyherrera, dnietoBlackBoard, mark-b-kauffman
 
 ## Information about the code:
 
-Please fill the following information about the project you wish to include into the organization. Regarding the URL, please use the Root URL instead of a link from a specific file:
+Before proceeding, please keep in mind the following:
 
-E.g: https://github.com/anthology-inc/test-repo
+- Regarding the URL, please use the Root URL instead of a link from a specific file. E.g: https://github.com/anthology-inc/test-repo
+- Under the Project name, please include the Product: E.g "Learn - Core LTI launch", "Student - API auth framework"
+
+Please fill the following information about the project you wish to include into the organization. 
 
 - URL: <Paste here>
 - Project Name: <Add here>
