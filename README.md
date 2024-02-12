@@ -18,7 +18,7 @@ Before you can create any contribution, you need to follow and adhere to any of 
 
 To be able to upload your code, please follow the instructions below:
 
-- Review that your code adheres to the [What do you need to push code]() and [README best practices]()
+- Review that your code adheres to the [What do you need to push code](https://github.com/Anthology-Community/Contributions/blob/main/Guides/What%20do%20you%20need%20to%20push%20code.md) and [README best practices](https://github.com/Anthology-Community/Contributions/blob/main/Guides/How%20to%20publish%20content.md)
 - Open a new issue on this repository using the available template, including the following information:
 
   - Name of the project
