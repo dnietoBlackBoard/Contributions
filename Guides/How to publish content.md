@@ -1,13 +1,13 @@
 # How to write a README file
 
-In order to submit content to the Anthology Community the contribution/project that you want to make should have a README file. This file will allow other contributors or users to follow the base steps that you will describe for making your project work.
+In order to submit content to the Anthology Community the contribution (project) that you want to make must have a README file. This file will allow other contributors or users to follow the base steps that you will describe for making your project work.
 
 Here are the primary guidelines that your README file should follow:
 
 > [!IMPORTANT]
 > These are the guidelines that will be evaluated once you want to submit your contribution to the organization.
 
-- **Project title:** A clear and concise title that accurately describes and repesent your project.
+- **Project title:** A clear and concise title that accurately describes and represents your project.
 
 - **Description:** A short description for the purpose and the functionality of your project.
 
@@ -15,13 +15,14 @@ Here are the primary guidelines that your README file should follow:
 
 - **Usage:** Here you can explain how to use your project including code samples or screenshots if needed.
 
-- **FAQ:** Here you can put some usual questions and answer that a user could have about your project.
+- **FAQ:** Here you can put some usual questions - answers that a user could have about your project.
 
-- **Troubleshooting:** Here you can specify some common errors that you could get when using your project and how to solve them.
+- **Troubleshooting:** Here you can specify some common errors that you could get when installing or using your project and how to solve them.
 
-> [!TIP] > **Keep your user in mind:** Your readme will be the first thing that a user will see, so try to keep it as simple and easy to understand as possible.
+> [!TIP]
+> **Keep your user in mind:** Your readme will be the first thing that a user will see, so try to keep it as simple and easy to understand as possible.
 
-# How to publish your contribution in Anthology-Community
+# How to publish your contribution to the Anthology-Community
 
 Once you have your project ready and you have followed the guidelines for the README file, you can submit your contribution to the Anthology-Community organization. Here are the steps that you will need to follow:
 
@@ -29,9 +30,9 @@ Once you have your project ready and you have followed the guidelines for the RE
 
 2. Follow the template that is provided in the issue and fill it with the information of your project.
 
-3. Once you have filled the template, you can submit the issue and wait for the organization to create the branch for your contribution.
+3. Once you have filled the template, you can submit the issue and wait for the organization to create the branch or new repository for your contribution.
 
-4. When the branch is created, you can checkout to it and start working on your project.
+4. When the branch or repo is created, you can Checkout to it and start working on your project.
 
 5. After you finished your project, you can submit a pull request to the organization and wait for the review of your project.
 
